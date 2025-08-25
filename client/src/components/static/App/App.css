@@ -1,0 +1,14 @@
+body {
+    background-color: #8D8E91;
+}
+
+.App {
+    width: 700px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.App .border-line {
+    border: 2px solid #DEDFE5;
+}

@@ -1,0 +1,6 @@
+
+client/node_modules/
+server/node_modules/
+node_modules/
+.idea/
+package*.json # Для package 2.json
